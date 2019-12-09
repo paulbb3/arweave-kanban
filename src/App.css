@@ -1,0 +1,33 @@
+.btitle{
+  background-color: 
+  #3179ba;
+  padding: 30px;
+  font-size: 30px;
+  color:
+  white;
+  font-weight: bold;
+  text-decoration: underline;  
+}
+.publish{
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+.btn{
+  padding: 10px;
+  background: #1e5486;
+  color: white;
+  border: 0;
+  cursor: pointer;
+}  
+
+.publish:hover {
+  background: #0e2d4a;
+}
+.main{
+  background-color: #3179ba;  
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;  
+}
